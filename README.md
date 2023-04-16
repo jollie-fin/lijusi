@@ -1,2 +1,2 @@
-# lijusi (2004)
+# lijusi (2004, finished)
 Language to program Aerotech juggling staves
